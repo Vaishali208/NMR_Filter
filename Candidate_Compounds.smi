@@ -1,63 +1,60 @@
-alpha-D Glucose     	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O
-beta-D Glucose  	C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O
-D - Fructose		C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
-Sucrose	        	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O
-Beta - Maltose		C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
-Trehalose		C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O
-(+)-Melezitose		C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@H]2[C@@H]([C@H](O[C@@]2(CO)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)CO)O)O)O)O)O
-Gluconic acid		C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)O
-Lactic acid		CC(C(=O)O)O
-L Lactic acid		C[C@@H](C(=O)O)O
-D Lactic acid		C[C@H](C(=O)O)O
-Formic acid		C(=O)O
-Acetic acid		CC(=O)O
-Succinic acid		C(CC(=O)O)C(=O)O
-Citric acid		C(C(=O)O)C(CC(=O)O)(C(=O)O)O
-Malic acid		C(C(C(=O)O)O)C(=O)O
-L-Malic acid		C([C@@H](C(=O)O)O)C(=O)O
-D-Malic acid		C([C@H](C(=O)O)O)C(=O)O
-Fumaric acid		C(=C/C(=O)O)\C(=O)O
-L-Proline		C1C[C@H](NC1)C(=O)O
-D-Proline		C1C[C@@H](NC1)C(=O)O
-D-Alanine		C[C@H](C(=O)O)N
-L-Alanine		C[C@@H](C(=O)O)N
-L-Valine		CC(C)[C@@H](C(=O)O)N
-D-Valine		CC(C)[C@H](C(=O)O)N
-L-Leucine		CC(C)C[C@@H](C(=O)O)N
-D-Leucine		CC(C)C[C@H](C(=O)O)N
-L-Isoleucine		CC[C@H](C)[C@@H](C(=O)O)N
-D-Isoleucine		CC[C@@H](C)[C@H](C(=O)O)N
-L-Phenylalanine		C1=CC=C(C=C1)C[C@@H](C(=O)O)N
-D-Phenylalanine		C1=CC=C(C=C1)C[C@H](C(=O)O)N
-L-tyrosine		C1=CC(=CC=C1C[C@@H](C(=O)O)N)O
-D-tyrosine		C1=CC(=CC=C1C[C@H](C(=O)O)N)O
-L-glutamic acid		C(CC(=O)NN)[C@@H](C(=O)O)N
-D-glutamic acid		C(CC(=O)O)[C@H](C(=O)O)N
-L-glutamine		C(CC(=O)N)[C@@H](C(=O)O)N
-D-glutamine		C(CC(=O)N)[C@H](C(=O)O)N
-L-aspartic acid		C([C@@H](C(=O)O)N)C(=O)O
-D-Aspartic acid		C([C@H](C(=O)O)N)C(=O)O
-L-asparagine		C([C@@H](C(=O)O)N)C(=O)N
-D-Asparagine		C([C@H](C(=O)O)N)C(=O)N
-Caffeic acid		C1=CC(=C(C=C1/C=C/C(=O)O)O)O
-Ferulic acid		COC1=C(C=CC(=C1)/C=C/C(=O)O)O
-cis-ferulic acid	COC1=C(C=CC(=C1)/C=C\C(=O)O)O
-p-Coumaric acid		C1=CC(=CC=C1/C=C/C(=O)O)O
-cis-p-Coumaric acid	C1=CC(=CC=C1/C=C\C(=O)O)O
+alpha-D Glucose       C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O
+beta-D Glucose        C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O
+D - Fructose          C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+Sucrose	              C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O
+Beta - Maltose        C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+Trehalose             C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O
+(+)-Melezitose        C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@H]2[C@@H]([C@H](O[C@@]2(CO)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)CO)O)O)O)O)O
+Gluconic acid         C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)O
+Lactic acid           CC(C(=O)O)O
+L Lactic acid         C[C@@H](C(=O)O)O
+D Lactic acid	      	C[C@H](C(=O)O)O
+Formic acid	         	C(=O)O
+Acetic acid		        CC(=O)O
+Succinic acid		      C(CC(=O)O)C(=O)O
+Citric acid		        C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+Malic acid		        C(C(C(=O)O)O)C(=O)O
+L-Malic acid		      C([C@@H](C(=O)O)O)C(=O)O
+D-Malic acid		      C([C@H](C(=O)O)O)C(=O)O
+Fumaric acid		      C(=C/C(=O)O)\C(=O)O
+L-Proline		          C1C[C@H](NC1)C(=O)O
+D-Proline		          C1C[C@@H](NC1)C(=O)O
+D-Alanine		          C[C@H](C(=O)O)N
+L-Alanine		          C[C@@H](C(=O)O)N
+L-Valine		          CC(C)[C@@H](C(=O)O)N
+D-Valine		          CC(C)[C@H](C(=O)O)N
+L-Leucine		          CC(C)C[C@@H](C(=O)O)N
+D-Leucine		          CC(C)C[C@H](C(=O)O)N
+L-Isoleucine		      CC[C@H](C)[C@@H](C(=O)O)N
+D-Isoleucine		      CC[C@@H](C)[C@H](C(=O)O)N
+L-Phenylalanine		    C1=CC=C(C=C1)C[C@@H](C(=O)O)N
+D-Phenylalanine		    C1=CC=C(C=C1)C[C@H](C(=O)O)N
+L-tyrosine		        C1=CC(=CC=C1C[C@@H](C(=O)O)N)O
+D-tyrosine		        C1=CC(=CC=C1C[C@H](C(=O)O)N)O
+L-glutamic acid		    C(CC(=O)O)[C@@H](C(=O)O)N
+D-glutamic acid		    C(CC(=O)O)[C@H](C(=O)O)N
+L-glutamine		        C(CC(=O)N)[C@@H](C(=O)O)N
+D-glutamine		        C(CC(=O)N)[C@H](C(=O)O)N
+L-aspartic acid		    C([C@@H](C(=O)O)N)C(=O)O
+D-Aspartic acid		    C([C@H](C(=O)O)N)C(=O)O
+L-asparagine		      C([C@@H](C(=O)O)N)C(=O)N
+D-Asparagine		      C([C@H](C(=O)O)N)C(=O)N
+Caffeic acid		      C1=CC(=C(C=C1/C=C/C(=O)O)O)O
+Ferulic acid		      COC1=C(C=CC(=C1)/C=C/C(=O)O)O
+cis-ferulic acid	    COC1=C(C=CC(=C1)/C=C\C(=O)O)O
+p-Coumaric acid		    C1=CC(=CC=C1/C=C/C(=O)O)O
+cis-p-Coumaric acid	  C1=CC(=CC=C1/C=C\C(=O)O)O
 Syringic acid	        COC1=CC(=CC(=C1O)OC)C(=O)O
-Chlorogenic acid	C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O
-cis-chlorogenic acid	C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C\C2=CC(=C(C=C2)O)O)O)O
-D-Chlorogenic Acid	[2H]C1=C(C(=C(C(=C1/C=C/C(=O)OC2CC(CC(C2([2H])O)([2H])O)(C(=O)O)O)[2H])O)O)[2H]
-Ellagic acid		C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O
-Vanillic acid		COC1=C(C=CC(=C1)C(=O)O)O
+Ellagic acid		      C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O
+Vanillic acid		      COC1=C(C=CC(=C1)C(=O)O)O
 p-Hydroxybenzoic acid	C1=CC(=CC=C1C(=O)O)O
-Kaempferol		C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
-Apigenin		C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
-Chrysin			C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O
-Pinocembrin		C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3
-Myricetin		C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
-Luteolin		C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O
-Galangin		C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
-Hesperetin		COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O
-Catechin		C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O
-Epicatechin		C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O
+Kaempferol		        C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+Apigenin		          C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
+Chrysin			          C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O
+Pinocembrin		        C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3
+Myricetin		          C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+Luteolin		          C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O
+Galangin		          C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+Hesperetin		        COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O
+Catechin		          C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O
+Epicatechin		        C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O
