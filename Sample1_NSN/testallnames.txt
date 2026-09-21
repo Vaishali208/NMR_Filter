@@ -1,0 +1,60 @@
+alpha-D Glucose      
+beta-D Glucose       
+D - Fructose         
+Sucrose	             
+Beta - Maltose       
+Trehalose            
+(+)-Melezitose       
+Gluconic acid        
+Lactic acid          
+L Lactic acid        
+D Lactic acid	     
+Formic acid	         
+Acetic acid		     
+Succinic acid		 
+Citric acid		     
+Malic acid		     
+L-Malic acid		 
+D-Malic acid		 
+Fumaric acid		 
+L-Proline		     
+D-Proline		     
+D-Alanine		     
+L-Alanine		     
+L-Valine		     
+D-Valine		     
+L-Leucine		     
+D-Leucine		     
+L-Isoleucine		 
+D-Isoleucine		 
+L-Phenylalanine		 
+D-Phenylalanine		 
+L-tyrosine		     
+D-tyrosine		     
+L-glutamic acid		 
+D-glutamic acid		 
+L-glutamine		     
+D-glutamine		     
+L-aspartic acid		 
+D-Aspartic acid		 
+L-asparagine		 
+D-Asparagine		 
+Caffeic acid		 
+Ferulic acid		 
+cis-ferulic acid	 
+p-Coumaric acid		 
+cis-p-Coumaric acid	 
+Syringic acid	     
+Ellagic acid		 
+Vanillic acid		 
+p-Hydroxybenzoic acid
+Kaempferol		     
+Apigenin		     
+Chrysin			     
+Pinocembrin		     
+Myricetin		     
+Luteolin		     
+Galangin		     
+Hesperetin		     
+Catechin		     
+Epicatechin		     
